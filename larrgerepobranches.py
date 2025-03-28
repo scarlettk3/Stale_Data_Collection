@@ -3,8 +3,7 @@ import time
 import json
 import pandas as pd
 import requests
-from bs4 import BeautifulSoup
-import re
+
 from datetime import datetime, timezone
 from tqdm import tqdm  # For progress bars
 from requests.adapters import HTTPAdapter
