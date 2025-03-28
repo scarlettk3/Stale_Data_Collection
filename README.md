@@ -15,7 +15,7 @@ Steps:
 3. jsontocsv.py creates a csv file out of json file, give the created csv file to step 4.
 4. formatting.py gives coloring to variate different repositories, generates a csv file.
 
-Make sure to include your organistation # github's token, name and team name.
+✅ Make sure to include your organistation github's token, name and team name.
 
 we get the stale data information like:
 1. repository it belongs to
